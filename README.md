@@ -19,6 +19,6 @@ contribute to organizational efficiency.
 |:-:|:-:|
 |INTRODUCTION TO ERP AND SAP|-Objectives, course outline, evaluation, expectations|
 ||Introduction to the role of databases and ERP systems in business process management|
--
--Identify specific benefits that a business can leverage through the use of an ERP system.
--Installation of the SAP GUI.|
+||Identify specific benefits that a business can leverage through the use of an ERP system|
+||Installation of the SAP GUI.|
+
